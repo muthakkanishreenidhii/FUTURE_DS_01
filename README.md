@@ -1,4 +1,3 @@
-# FUTURE_DS_01
 # FUTURE_DS_01 — Business Sales Dashboard (E-commerce)
 
 **Intern:** Your Name  
@@ -45,4 +44,4 @@ FUTURE_DS_01/
 - Keep the repo public; provide the link in the task submission form.
 
 ## Author
-Your Name — Intern at Future Interns
+M.ShreeNidhii — Intern at Future Interns
